@@ -1,2 +1,2 @@
 # desenvolvimento
-Repositório para os nossos códigos e seus versionamentos
+Repositório para o nosso banco de dados e sua regra de negócio.
